@@ -4,7 +4,7 @@
 Este projeto faz parte do desafio **Lab Natty or Not** da DIO. Apresenta uma pessoa totalmente fictícia, gerada com ajuda de inteligência artificial, tanto na aparência quanto na biografia.
 
 ## 🧠 Sobre Clara Mendes
-![Clara Mendes](images/clara-mendes.png)
+![Clara Mendes](images/clara-mendes-ia.png)
 
 > Clara Mendes tem 34 anos, é doutora em Ciência da Computação pela USP e atua como pesquisadora em modelos de machine learning para diagnósticos médicos. Nas horas vagas, escreve contos de ficção científica gerados por IA.
 
