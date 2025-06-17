@@ -1,0 +1,6 @@
+Nome: Clara Mendes
+Idade: 34 anos
+Profissão: Cientista de Dados e Pesquisadora em Inteligência Artificial
+Formação: Doutora em Ciência da Computação pela Universidade de São Paulo (USP)
+Atuação: Clara desenvolve modelos de aprendizado de máquina voltados para diagnósticos médicos automatizados e ética em IA. É apaixonada por inovação e já palestrou em eventos internacionais sobre o impacto das tecnologias generativas no futuro do trabalho.
+Curiosidade: Nas horas vagas, escreve contos de ficção científica inspirados em cenários criados por IA.
